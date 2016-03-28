@@ -1,5 +1,5 @@
 {
-	"template": "go",
+	"template": "golang",
 	"ports": [3000],
-	"name": "A Quickstart test app"
+	"name": "Discourse"
 }
