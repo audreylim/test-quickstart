@@ -1,0 +1,5 @@
+{
+	"template": "go",
+	"ports": [3000],
+	"name": "A Quickstart test app"
+}
